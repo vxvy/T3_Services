@@ -1,0 +1,11 @@
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.exe
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.deps.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.runtimeconfig.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.runtimeconfig.dev.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.dll
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.pdb
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.AssemblyInfoInputs.cache
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.AssemblyInfo.cs
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.dll
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo_Servidor.pdb

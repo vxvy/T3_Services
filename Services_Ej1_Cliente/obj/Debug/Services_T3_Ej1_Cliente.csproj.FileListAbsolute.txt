@@ -1,0 +1,10 @@
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\bin\Debug\Services_Ej1_Cliente.exe.config
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\bin\Debug\Services_Ej1_Cliente.exe
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\bin\Debug\Services_Ej1_Cliente.pdb
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\obj\Debug\Services_T3_Ej1_Cliente.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\obj\Debug\Services_Ej1_Cliente.Form1.resources
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\obj\Debug\Services_Ej1_Cliente.Properties.Resources.resources
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\obj\Debug\Services_T3_Ej1_Cliente.csproj.GenerateResource.cache
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\obj\Debug\Services_Ej1_Cliente.exe
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\obj\Debug\Services_Ej1_Cliente.pdb
+C:\Users\vane\source\repos\Services_T3\Services_Ej1_Cliente\obj\Debug\Services_Ej1_Cliente.IPChange.resources

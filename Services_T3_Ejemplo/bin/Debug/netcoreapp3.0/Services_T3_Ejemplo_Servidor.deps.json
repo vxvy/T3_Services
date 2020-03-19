@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Services_T3_Ejemplo_Servidor/1.0.0": {
+        "runtime": {
+          "Services_T3_Ejemplo_Servidor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Services_T3_Ejemplo_Servidor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

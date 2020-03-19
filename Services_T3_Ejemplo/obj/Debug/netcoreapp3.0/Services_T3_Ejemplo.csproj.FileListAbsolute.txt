@@ -1,0 +1,11 @@
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo.exe
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo.deps.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo.runtimeconfig.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo.runtimeconfig.dev.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo.dll
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\bin\Debug\netcoreapp3.0\Services_T3_Ejemplo.pdb
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo.AssemblyInfoInputs.cache
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo.AssemblyInfo.cs
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo.dll
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ejemplo\obj\Debug\netcoreapp3.0\Services_T3_Ejemplo.pdb

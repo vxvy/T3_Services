@@ -1,0 +1,11 @@
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\bin\Debug\netcoreapp3.0\Services_T3_Ej2_Server.exe
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\bin\Debug\netcoreapp3.0\Services_T3_Ej2_Server.deps.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\bin\Debug\netcoreapp3.0\Services_T3_Ej2_Server.runtimeconfig.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\bin\Debug\netcoreapp3.0\Services_T3_Ej2_Server.runtimeconfig.dev.json
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\bin\Debug\netcoreapp3.0\Services_T3_Ej2_Server.dll
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\bin\Debug\netcoreapp3.0\Services_T3_Ej2_Server.pdb
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\obj\Debug\netcoreapp3.0\Services_T3_Ej2_Server.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\obj\Debug\netcoreapp3.0\Services_T3_Ej2_Server.AssemblyInfoInputs.cache
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\obj\Debug\netcoreapp3.0\Services_T3_Ej2_Server.AssemblyInfo.cs
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\obj\Debug\netcoreapp3.0\Services_T3_Ej2_Server.dll
+C:\Users\vane\source\repos\Services_T3\Services_T3_Ej2_Server\obj\Debug\netcoreapp3.0\Services_T3_Ej2_Server.pdb
